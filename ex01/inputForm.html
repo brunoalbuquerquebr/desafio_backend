@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script type="text/javascript" src="index.js"></script>
+    <script>function onCalcPress() {
+        var nameField = document.getElementById("name").value
+        countString(nameField, showCountString)
+    }</script>
+</head>
+<body>
+    <p>
+        <label>Nome</label>
+        <input type="text" id="name">
+        <input type="button" value="Calcular" onclick="onCalcPress()">
+    </p>
+   
+</body>
+</html>

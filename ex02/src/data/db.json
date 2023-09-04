@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "Leia Organa",
+        "height": "150",
+        "mass": "49"
+    },
+    {
+        "id": "2",
+        "name": "Owen Lars",
+        "height": "178",
+        "mass": "120"
+    },
+    {
+        "id": "3",
+        "name": "Beru Whitesun lars",
+        "height": "165",
+        "mass": "75"
+    },
+    {
+        "id": "4",
+        "name": "R5-D4",
+        "height": "97",
+        "mass": "32"
+    },
+    {
+        "id": "6",
+        "name": "Obi-Wan Kenobi 3",
+        "height": "182",
+        "mass": "77"
+    }
+]
